@@ -1,0 +1,10 @@
+.container img {
+    float: left;
+    margin-right: 16px;
+}
+
+.bio {
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+    line-height: 1.5;
+    font-size: 16px;
+}
