@@ -14,3 +14,16 @@ button {
 button:hover {
     background-color: #FF0000;
 }
+
+/*Media calls*/
+@media screen and (max-width: 980px) {
+
+    input {
+        width: 100%;
+    }
+
+    textarea {
+        width: 100%
+    }
+
+}
